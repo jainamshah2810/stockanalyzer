@@ -130,16 +130,16 @@ Admin and User register to our system Based on the Role.
 
 ## Future Improvements
 
-#### Project Host on platform such as Heroku or AWS
+#### Making the application live by Hosting on platform such as AWS
 #### Security
     
-    Increase security so that the user can only see his data and not the data of others. 
+    Increase security so that the user can only see their data and not able to access the data of others. 
 #### Data Cleaning
     Cleaning up the data in the.csv files 
 
 #### Docker Compose files
-    Alternative way to create docker image.
-    Docker compose file is a yaml file so we have to write data based on our requirement.
+    Efficient way to create docker images of the application.
+  
 
 
 
