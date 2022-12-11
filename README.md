@@ -128,9 +128,9 @@ Admin and User register to our system Based on the Role.
     Create docker file with steps.
     Create docker image and push to docker hub.
 
-## Future Improvments
+## Future Improvements
 
-#### Porject Host on platform such as Heroku, AWS
+#### Project Host on platform such as Heroku or AWS
 #### Security
     
     Increase security so that the user can only see his data and not the data of others. 
@@ -139,7 +139,7 @@ Admin and User register to our system Based on the Role.
 
 #### Docker Compose files
     Alternative way to create docker image.
-    Docker compose file is a ymal file so we have to write data based on our requirement
+    Docker compose file is a yaml file so we have to write data based on our requirement.
 
 
 
